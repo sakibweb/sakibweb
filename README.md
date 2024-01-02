@@ -14,7 +14,7 @@ I am a versatile full-stack developer with a keen eye for design and a passion f
 *   🧠  I'm learning something new
 *   🤝  I'm open to collaborating on any projects
 *   ⚡  I love technology
-*
+
 
 ### Skills
 
