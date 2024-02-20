@@ -26,6 +26,7 @@ I am a versatile full-stack developer with a keen eye for design and a passion f
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibweb)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=sakibweb)](https://github.com/anuraghazra/github-readme-stats)
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakibweb\&layout=compact)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7TY8ZZ)
