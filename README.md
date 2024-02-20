@@ -17,7 +17,7 @@ I am a versatile full-stack developer with a keen eye for design and a passion f
 *   ⚡  I love technology
 
 
-### Skills
+### 🛠️Skills
 
 
 
@@ -26,7 +26,7 @@ I am a versatile full-stack developer with a keen eye for design and a passion f
 </p>
 
 
-## Analysis
+## 🔍Analysis
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=sakibweb&theme=transparent" alt="Github stats for Sakibweb" />
@@ -36,6 +36,6 @@ I am a versatile full-stack developer with a keen eye for design and a passion f
 
 
 
-## Support
+## 🤝Support
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7TY8ZZ)
