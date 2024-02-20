@@ -34,8 +34,6 @@ I am a versatile full-stack developer with a keen eye for design and a passion f
 </p>
 
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sakibweb&layout=compact&theme=transparent" />
-
 
 
 ## Support
