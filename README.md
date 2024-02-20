@@ -27,8 +27,9 @@ I am a versatile full-stack developer with a keen eye for design and a passion f
 
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sakibweb&theme=transparent" />
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibweb&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibweb&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sakibweb&layout=compact&theme=transparent" />
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7TY8ZZ)
