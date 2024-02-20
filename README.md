@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hi,+I'm+Sakibur+Rahman!;" />
 </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=15F702&vCenter=true&repeat=false&random=false&width=500&height=25&lines=Full-stack+Developer" alt="Typing SVG" /></a>
-
+Full-stack Developer
+--------------------
 I am a versatile full-stack developer with a keen eye for design and a passion for delivering outstanding user experiences. With expertise in HTML, CSS, JavaScript, TypeScript, and a variety of frameworks including React, Ionic, and Angular, I bring a wealth of experience to every project. Whether you need a Django or Flask backend, PHP or Laravel development, or MySQL database management, I am committed to delivering optimal solutions that meet your unique needs. Let's work together to bring your vision to life!
 
 *   🌍  I'm based in Dhaka, Bangladesh
