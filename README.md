@@ -30,6 +30,11 @@ I am a versatile full-stack developer with a keen eye for design and a passion f
 </p>
 
 
+## 🐍Contributions
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sakibweb/sakibweb/output/github-contribution-grid-snake.svg" />
+</div>
 
 
 ## 🤝Support
