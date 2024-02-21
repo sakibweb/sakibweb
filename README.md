@@ -26,7 +26,7 @@ I am a versatile full-stack developer with a keen eye for design and a passion f
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=sakibweb&theme=transparent" alt="Github stats for Sakibweb" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibweb&layout=compact&langs_count=8&card_width=320&theme=transparent" alt="Top languages for Sakibweb" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibweb&layout=compact&langs_count=10&card_width=320&theme=transparent" alt="Top languages for Sakibweb" />
 </p>
 
 
