@@ -43,4 +43,5 @@ I am a versatile full-stack developer with a keen eye for design and a passion f
 
 ## 🤝Support
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7TY8ZZ)
+<a href="https://ko-fi.com/sakibweb"><img alt="Donate using ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+<a href="https://liberapay.com/sakibweb/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
