@@ -43,8 +43,6 @@ I am a versatile full-stack developer with a keen eye for design and a passion f
 
 ## 🤝Support
 
-<a href="https://sakibweb.github.io/donate-bd?u=sakibweb&amp;a=bkash&amp;n=01774321010&amp;d=200&amp;e=sakibdev.me@gmail.com" target="_blank" title="Donate me with bKash" rel="nofollow" style="display: inline-block; padding: 5px 10px; text-decoration: none; background-color: white; border-radius: 5px; border: 2px solid #E51855; color: #E51855; font-family: Arial, sans-serif;">
-    <img alt="Donate me" src="https://sakibweb.github.io/donate-bd/assets/img/bkash.png" height="20" width="20" style="vertical-align: middle; margin-right: 5px;"> Donate me
-</a>
+<a href="https://sakibweb.github.io/donate-bd?u=sakibweb&amp;a=bkash&amp;n=01774321010&amp;d=200&amp;e=sakibdev.me@gmail.com" target="_blank" title="Donate me with bKash" rel="nofollow" style="display: inline-block; margin-right: 10px;"><img alt="Donate me" src="https://sakibweb.github.io/donate-bd/assets/img/pay2.png" height="30" width="130" style="vertical-align: middle;"></a>
 <a href="https://ko-fi.com/sakibweb" target="_blank"><img alt="Donate using ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 <a href="https://liberapay.com/sakibweb/donate" target="_blank"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
