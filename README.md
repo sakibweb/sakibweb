@@ -8,9 +8,9 @@
 I am a versatile full-stack developer with a keen eye for design and a passion for delivering outstanding user experiences. With expertise in HTML, CSS, JavaScript, TypeScript, and a variety of frameworks including React, Ionic, and Angular, I bring a wealth of experience to every project. Whether you need a Django or Flask backend, PHP or Laravel development, or MySQL database management, I am committed to delivering optimal solutions that meet your unique needs. Let's work together to bring your vision to life!
 
 *   🌍  I'm based in Dhaka, Bangladesh
-*   🖥️  See my portfolio at [https://sakibweb.github.io](http://sakibweb.github.io)
+*   🖥️  See my portfolio at [https://sakibweb.top](https://sakibweb.top) OR [https://sakibweb.github.io](http://sakibweb.github.io) [OLD]
 *   ✉️  You can contact me at [sakib.sr20@gmail.com](mailto:sakib.sr20@gmail.com)
-*   🚀  I'm currently working on [see recent activity](http://https://sakibweb.github.io)
+*   🚀  I'm currently working on [see recent activity](https://sakibweb.top) OR [Alternative](http://sakibweb.github.io)
 *   🧠  I'm learning something new
 *   🤝  I'm open to collaborating on any projects
 *   ⚡  I love technology
